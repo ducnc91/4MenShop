@@ -10,7 +10,7 @@
     <div class="row">
 			<ol class="breadcrumb">
 				<li><a href="#"><span class="glyphicon glyphicon-home"></span></a></li>
-				<li class="active">Tables</li>
+				<li class="active">Tables 2</li>
 			</ol>
 		</div><!--/.row-->
 		
